@@ -49,7 +49,7 @@ python train_net_vita.py \
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | VITA | R-50 | 49.8 | 72.6 | 54.5 | 49.4 | 61.0 | [model](https://yonsei-my.sharepoint.com/:u:/g/personal/miran_o365_yonsei_ac_kr/EYRfhYvpDKFPtox8FPY5zEABP-i8XKUx_xTgutGAX6YOKg?e=Q7QWqR) |
 | VITA | R-101 | 51.9 | 75.4 | 57.0 | 49.6 | 59.1 | [~~model~~]() |
-| VITA | Swin-L | 63.0 | 86.9 | 67.9 | 56.3 | 68.1 | [~~model~~]() |
+| VITA | Swin-L | 63.0 | 86.9 | 67.9 | 56.3 | 68.1 | [model](https://yonsei-my.sharepoint.com/:u:/g/personal/miran_o365_yonsei_ac_kr/EcEG7S03zapMn920kwUlh80BuhlTSegzg0itq1dKX6mD3w?e=6gkhLK) |
 
 ### YouTubeVIS-2021
 | Name | Backbone | AP | AP50 | AP75| AR1 | AR10 | Download |
