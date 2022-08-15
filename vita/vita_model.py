@@ -396,7 +396,7 @@ class Vita(nn.Module):
         scores = F.softmax(mask_cls, dim=-1)[:, :-1]
         labels = torch.arange(self.sem_seg_head.num_classes, device=self.device).unsqueeze(0).repeat(self.num_queries, 1).flatten(0, 1)
 
-        num_topk = self.test_topk_per_image if self.is_coco else 10
+        num_topk = self.test_topk_per_image
         scores_per_video, topk_indices = scores.flatten(0, 1).topk(num_topk, sorted=False)
         labels_per_video = labels[topk_indices]
 
