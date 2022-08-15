@@ -42,7 +42,7 @@ python train_net_vita.py \
 ### Pretrained weights on COCO
 | Name | R-50  | R-101 | Swin-L |
 | :---: | :---: | :---: | :---: |
-| VITA | [model](https://yonsei-my.sharepoint.com/:u:/g/personal/miran_o365_yonsei_ac_kr/EWvPI4wt7M5Js2bj3pgMI-0BLTB3mtZZdi0qnnYC-wGj3w?e=LTBuQL) | [~~model~~]() | [~~model~~]() |
+| VITA | [model](https://yonsei-my.sharepoint.com/:u:/g/personal/miran_o365_yonsei_ac_kr/EWvPI4wt7M5Js2bj3pgMI-0BLTB3mtZZdi0qnnYC-wGj3w?e=LTBuQL) | [model](https://yonsei-my.sharepoint.com/:u:/g/personal/miran_o365_yonsei_ac_kr/ESiMMAYJR8dAsFaYaXtT0MYBTYQYfZJNvaTAXQzWQPg46Q?e=00jqaC) | [model](https://yonsei-my.sharepoint.com/:u:/g/personal/miran_o365_yonsei_ac_kr/EYF08Kl4z8dHuiSKvH3T7MUBz8oEU3LBaRL1CXC3HzTIxA?e=CiOku4) |
 
 ### YouTubeVIS-2019
 | Name | Backbone | AP | AP50 | AP75| AR1 | AR10 | Download |
@@ -55,13 +55,13 @@ python train_net_vita.py \
 | Name | Backbone | AP | AP50 | AP75| AR1 | AR10 | Download |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | VITA | R-50 | 49.8 | 72.6 | 54.5 | 49.4 | 61.0 | [model](https://yonsei-my.sharepoint.com/:u:/g/personal/miran_o365_yonsei_ac_kr/Efo2Axgve5lEgDgz4BTj_1kBRnkkdD5ZjwaUlAf3yQo84Q?e=i7jiGg) |
-| VITA | Swin-L | 57.5 | 80.6 | 61.0 | 47.7 | 62.6 | [~~model~~]() |
+| VITA | Swin-L | 57.5 | 80.6 | 61.0 | 47.7 | 62.6 | [model](https://yonsei-my.sharepoint.com/:u:/g/personal/miran_o365_yonsei_ac_kr/ETtlRVPaXBdCp5C3VmLnOwUB16fk48fgaXT4r4M4kY_aSQ?e=wE6dfY) |
 
 ### OVIS
 | Name | Backbone | AP | AP50 | AP75| AR1 | AR10 | Download |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | VITA | R-50 | 19.6 | 41.2 | 17.4 | 11.7 | 26.0 | [~~model~~]() |
-| VITA | Swin-L | 27.7 | 51.9 | 24.9 | 14.9 | 33.0 | [~~model~~]() |
+| VITA | Swin-L | 27.7 | 51.9 | 24.9 | 14.9 | 33.0 | [model](https://yonsei-my.sharepoint.com/:u:/g/personal/miran_o365_yonsei_ac_kr/EdO6znTQNDBCkQ0s7hnxKuoBoeMDXRdy7oy7VA1iWWapiQ?e=DTYIYn) |
 
 ## License
 The majority of VITA is licensed under a
