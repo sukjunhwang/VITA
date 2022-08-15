@@ -1,6 +1,6 @@
 _BASE_: Base-YouTubeVIS-VideoInstanceSegmentation.yaml
 MODEL:
-  WEIGHTS: "model_final_e5f453.pkl"
+  WEIGHTS: "vita_swin_coco.pth"
   BACKBONE:
     NAME: "D2SwinTransformer"
   SWIN:

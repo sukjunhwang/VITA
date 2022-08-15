@@ -11,7 +11,7 @@ MODEL:
     DROP_PATH_RATE: 0.3
     PATCH_NORM: True
     PRETRAIN_IMG_SIZE: 384
-  WEIGHTS: "model_final_e5f453.pkl"
+  WEIGHTS: "vita_swin_coco.pth"
   PIXEL_MEAN: [123.675, 116.280, 103.530]
   PIXEL_STD: [58.395, 57.120, 57.375]
   META_ARCHITECTURE: "Vita"

@@ -1,7 +1,7 @@
 _BASE_: ../youtubevis_2019/Base-YouTubeVIS-VideoInstanceSegmentation.yaml
 MODEL:
   BACKBONE:
-    NAME: "D2SwinTransformer"
+    NAME: "vita_swin_coco.pth"
   SWIN:
     EMBED_DIM: 192
     DEPTHS: [2, 2, 18, 2]

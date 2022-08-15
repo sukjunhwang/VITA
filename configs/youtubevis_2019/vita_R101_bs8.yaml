@@ -1,6 +1,6 @@
 _BASE_: Base-YouTubeVIS-VideoInstanceSegmentation.yaml
 MODEL:
-  WEIGHTS: "model_final_eba159.pkl"
+  WEIGHTS: "vita_r101_coco.pth"
   RESNETS:
     DEPTH: 101
     STEM_TYPE: "basic"  # not used
