@@ -1,4 +1,7 @@
 # VITA: Video Instance Segmentation via Object Token Association
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/vita-video-instance-segmentation-via-object/video-instance-segmentation-on-youtube-vis-1)](https://paperswithcode.com/sota/video-instance-segmentation-on-youtube-vis-1?p=vita-video-instance-segmentation-via-object)  
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/vita-video-instance-segmentation-via-object/video-instance-segmentation-on-youtube-vis-2)](https://paperswithcode.com/sota/video-instance-segmentation-on-youtube-vis-2?p=vita-video-instance-segmentation-via-object)  
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/vita-video-instance-segmentation-via-object/video-instance-segmentation-on-ovis-1)](https://paperswithcode.com/sota/video-instance-segmentation-on-ovis-1?p=vita-video-instance-segmentation-via-object)
 
 [Miran Heo<sup>*](https://sites.google.com/view/miranheo), [Sukjun Hwang<sup>*](https://sukjunhwang.github.io), [Seoung Wug Oh](https://sites.google.com/view/seoungwugoh), [Joon-Young Lee](https://joonyoung-cv.github.io), [Seon Joo Kim](https://sites.google.com/site/seonjookim/home) (*equal contribution)
 
@@ -48,7 +51,6 @@ python train_net_vita.py \
 | Name | Backbone | AP | AP50 | AP75| AR1 | AR10 | Download |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | VITA | R-50 | 49.8 | 72.6 | 54.5 | 49.4 | 61.0 | [model](https://yonsei-my.sharepoint.com/:u:/g/personal/miran_o365_yonsei_ac_kr/EYRfhYvpDKFPtox8FPY5zEABP-i8XKUx_xTgutGAX6YOKg?e=Q7QWqR) |
-| VITA | R-101 | 51.9 | 75.4 | 57.0 | 49.6 | 59.1 | [~~model~~]() |
 | VITA | Swin-L | 63.0 | 86.9 | 67.9 | 56.3 | 68.1 | [model](https://yonsei-my.sharepoint.com/:u:/g/personal/miran_o365_yonsei_ac_kr/EcEG7S03zapMn920kwUlh80BuhlTSegzg0itq1dKX6mD3w?e=6gkhLK) |
 
 ### YouTubeVIS-2021
