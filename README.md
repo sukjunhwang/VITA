@@ -62,7 +62,7 @@ python train_net_vita.py \
 ### OVIS
 | Name | Backbone | AP | AP50 | AP75| AR1 | AR10 | Download |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| VITA | R-50 | 19.6 | 41.2 | 17.4 | 11.7 | 26.0 | [~~model~~]() |
+| VITA | R-50 | 19.6 | 41.2 | 17.4 | 11.7 | 26.0 | [model](https://yonsei-my.sharepoint.com/:u:/g/personal/miran_o365_yonsei_ac_kr/EdM0LcumQZZNvdq00ppuZUIBAtPisp2-AP2YHLHR6yAQKA?e=grSGgz) |
 | VITA | Swin-L | 27.7 | 51.9 | 24.9 | 14.9 | 33.0 | [model](https://yonsei-my.sharepoint.com/:u:/g/personal/miran_o365_yonsei_ac_kr/EdO6znTQNDBCkQ0s7hnxKuoBoeMDXRdy7oy7VA1iWWapiQ?e=DTYIYn) |
 
 ## License
