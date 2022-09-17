@@ -76,10 +76,10 @@ However portions of the project are available under separate license terms: Dete
 If you use VITA in your research or wish to refer to the baseline results published in the Model Zoo, please use the following BibTeX entry.
 
 ```BibTeX
-@article{heo2022vita,
+@inproceedings{heo2022vita,
   title={VITA: Video Instance Segmentation via Object Token Association},
   author={Heo, Miran and Hwang, Sukjun and Oh, Seoung Wug and Lee, Joon-Young and Kim, Seon Joo},
-  journal={arXiv preprint arXiv:2206.04403},
+  journal={Advances in Neural Information Processing Systems},
   year={2022}
 }
 ```
