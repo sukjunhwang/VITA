@@ -12,8 +12,8 @@
 </div><br/>
 
 ## Updates
-* **`Sep 14, 2022`:**: VITA is accepted to NeurIPS 2022!
-* **`Aug 15, 2022`:**: Code and pretrained weights are now available! Thanks for your patience :)
+* **`Sep 14, 2022`:** VITA is accepted to NeurIPS 2022!
+* **`Aug 15, 2022`:** Code and pretrained weights are now available! Thanks for your patience :)
 
 ## Installation
 
