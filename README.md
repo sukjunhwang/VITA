@@ -1,4 +1,4 @@
-# VITA: Video Instance Segmentation via Object Token Association
+# VITA: Video Instance Segmentation via Object Token Association (NeurIPS 2022)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/vita-video-instance-segmentation-via-object/video-instance-segmentation-on-youtube-vis-1)](https://paperswithcode.com/sota/video-instance-segmentation-on-youtube-vis-1?p=vita-video-instance-segmentation-via-object)  
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/vita-video-instance-segmentation-via-object/video-instance-segmentation-on-youtube-vis-2)](https://paperswithcode.com/sota/video-instance-segmentation-on-youtube-vis-2?p=vita-video-instance-segmentation-via-object)  
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/vita-video-instance-segmentation-via-object/video-instance-segmentation-on-ovis-1)](https://paperswithcode.com/sota/video-instance-segmentation-on-ovis-1?p=vita-video-instance-segmentation-via-object)
@@ -12,7 +12,8 @@
 </div><br/>
 
 ## Updates
-* 08/15/2022: Code and pretrained weights are now available! Thanks for your patience :)
+* **`Sep 14, 2022`:**: VITA is accepted to NeurIPS 2022!
+* **`Aug 15, 2022`:**: Code and pretrained weights are now available! Thanks for your patience :)
 
 ## Installation
 
