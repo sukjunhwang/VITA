@@ -12,6 +12,7 @@
 </div><br/>
 
 ## Updates
+* **`Jan 20, 2022`:** Our new online VIS method "GenVIS" is available at [here](https://github.com/miranheo/GenVIS)!
 * **`Sep 14, 2022`:** VITA is accepted to NeurIPS 2022!
 * **`Aug 15, 2022`:** Code and pretrained weights are now available! Thanks for your patience :)
 
@@ -76,10 +77,10 @@ However portions of the project are available under separate license terms: Dete
 If you use VITA in your research or wish to refer to the baseline results published in the Model Zoo, please use the following BibTeX entry.
 
 ```BibTeX
-@inproceedings{heo2022vita,
+@inproceedings{VITA,
   title={VITA: Video Instance Segmentation via Object Token Association},
   author={Heo, Miran and Hwang, Sukjun and Oh, Seoung Wug and Lee, Joon-Young and Kim, Seon Joo},
-  journal={Advances in Neural Information Processing Systems},
+  booktitle={Advances in Neural Information Processing Systems},
   year={2022}
 }
 ```
