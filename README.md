@@ -12,7 +12,7 @@
 </div><br/>
 
 ## Updates
-* **`Jan 20, 2022`:** Our new online VIS method "GenVIS" is available at [here](https://github.com/miranheo/GenVIS)!
+* **`Jan 20, 2023`:** Our new online VIS method "GenVIS" is available at [here](https://github.com/miranheo/GenVIS)!
 * **`Sep 14, 2022`:** VITA is accepted to NeurIPS 2022!
 * **`Aug 15, 2022`:** Code and pretrained weights are now available! Thanks for your patience :)
 
