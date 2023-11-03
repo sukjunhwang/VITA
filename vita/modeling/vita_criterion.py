@@ -244,7 +244,7 @@ class VitaSetCriterion(nn.Module):
         loss = loss * same_clip
         loss_clip_sim = loss.sum() / (same_clip.sum() + 1e-6)
 
-        return {"loss_clip_sim": loss_clip_sim}
+        return {"loss_vita_sim": loss_clip_sim}
 
     def _get_src_permutation_idx(self, indices):
         # permute predictions following indices
